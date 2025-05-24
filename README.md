@@ -15,8 +15,8 @@
 📬 Fique à vontade para entrar em contato ou trocar uma ideia!
 
 ### Detalhes
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=Magrelinprt&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magrelinprt&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=Magrelinprt&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magrelinprt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
