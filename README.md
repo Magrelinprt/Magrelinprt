@@ -10,7 +10,7 @@
 
 🎓 Formação: Ensino Médio Técnico em TI.
 
-📌 Embora eu ainda não tenha projetos pessoais públicos aqui, em breve pretendo compartilhar algumas ideias e experimentos.
+📌 Embora eu ainda não tenha projetos pessoais públicos aqui, em breve pretendo compartilhar algumas ideias minhas e experimentos do curso que estou fazendo.
 
 📬 Fique à vontade para entrar em contato ou trocar uma ideia!
 
